@@ -8,20 +8,19 @@ Welcome to my **Java Sprint Practice** repository! This collection includes my h
 
 ---
 
-## 📂 Folder Structure
+### 📁 Folder Structure
 
-Java_Sprint_Practice/
-├── Sprint_01_First_Java_Programs/
-├── Sprint_02_Decision_Making_Modularity/
-├── Sprint_03_Loops_Arrays_Prime/
-├── Sprint_04_Strings_Recursion/
-├── Sprint_05_OOP_Object_Management/
-├── Sprint_06_Inheritance_Polymorphism/
-├── Sprint_07_Abstract_Interfaces/
-├── Sprint_08_Collections_FileIO/
-├── Sprint_09_Furniture_Management_System/
-├── Sprint_10_Capstone_DonateConnect_CLI/
----
+- `Sprint_01_First_Java_Programs`
+- `Sprint_02_Decision_Making_Modularity`
+- `Sprint_03_Loops_Arrays_Prime`
+- `Sprint_04_Strings_Recursion`
+- `Sprint_05_OOP_Object_Management`
+- `Sprint_06_Inheritance_Polymorphism`
+- `Sprint_07_Abstract_Interfaces`
+- `Sprint_08_Collections_FileIO`
+- `Sprint_09_Furniture_Management_System`
+- `Sprint_10_Capstone_DonateConnect_CLI`
+
 
 ## 🔥 Highlighted Concepts Per Sprint
 
